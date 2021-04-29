@@ -4,8 +4,8 @@ portfolio:
   title: Our Works
   portfolio_item:
   - name: test1
-    image: ''
-    image_webp: ''
+    image: images/portfolio/portfolio-1.jpg
+    image_webp: images/portfolio/portfolio-1.jpg
     categories: ''
     content: test
     link: "#"
