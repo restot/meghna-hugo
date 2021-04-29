@@ -85,8 +85,8 @@ link = "plugins/lazy-load/lozad.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/map.js"
 [params.preloader]
-enable = false
-preloader = "images/logo.png"
+enable = true
+preloader = "/images/mvstudios_icon.jpg"
 [[params.social]]
 icon = "ti-instagram"
 link = "https://www.instagram.com/mt.view_official/"
