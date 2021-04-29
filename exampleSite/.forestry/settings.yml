@@ -9,7 +9,7 @@ sections:
   label: partials
   create: documents
   match: "**/*"
-  new_doc_ext: ".html"
+  new_doc_ext: html
 - type: heading
   label: Blog Post
 - type: directory
