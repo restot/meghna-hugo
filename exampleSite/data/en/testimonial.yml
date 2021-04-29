@@ -2,7 +2,7 @@
 testimonial:
   enable: true
   bg_image: "/images/done-done.png"
-  bg_image_webp: "/images/done-done.png"
+  bg_image_webp: done done  - Copy (2).webp
   testimonial_item:
   - name: Jonathon Andrew
     image: images/client/client-1.jpg
