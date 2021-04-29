@@ -1,7 +1,7 @@
 ---
 testimonial:
   enable: true
-  bg_image: "/images/done-done.png"
+  bg_image: ''
   bg_image_webp: "/images/img_3079-copy.webp"
   testimonial_item:
   - name: Jonathon Andrew
