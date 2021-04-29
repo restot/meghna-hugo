@@ -3,7 +3,7 @@ portfolio:
   enable: true
   title: Our Works
   portfolio_item:
-  - name: test
+  - name: test1
     image: ''
     image_webp: ''
     categories: ''
