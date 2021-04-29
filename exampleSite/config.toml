@@ -14,17 +14,37 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [[menu.main]]
-name = "portfolio"
-url = "#portfolio"
-weight = 2
+name = "about"
+url = "#about"
+weight = 1
 [[menu.main]]
 name = "services"
 url = "#services"
-weight = 1
+weight = 2
+[[menu.main]]
+name = "portfolio"
+url = "#portfolio"
+weight = 3
+[[menu.main]]
+name = "team"
+url = "#team"
+weight = 4
+[[menu.main]]
+name = "pricing"
+url = "#pricing"
+weight = 5
+[[menu.main]]
+name = "blog"
+url = "#blog"
+weight = 6
 [[menu.main]]
 name = "contact"
 url = "#contact"
-weight = 3
+weight = 7
+[[menu.main]]
+name = "themefisher"
+url = "https://themefisher.com/"
+weight = 8
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
