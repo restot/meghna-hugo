@@ -32,7 +32,7 @@ google_analytics_id = "UA-195898563-1"
 logo = "/images/mvstudios_icon.jpg"
 post_share = true
 [params.cookies]
-enable = true
+enable = false
 expire_days = 2
 [params.map]
 enable = false
