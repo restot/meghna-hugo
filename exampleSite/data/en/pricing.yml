@@ -3,7 +3,7 @@ pricing:
   enable: true
   title: Our Plans
   pricing_table:
-  - name: Tryout
+  - name: Model
     price: ''
     unit: ''
     services:
