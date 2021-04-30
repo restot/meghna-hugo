@@ -17,7 +17,7 @@ pricing:
       label: Signup
       link: "#"
   - name: Wedding
-    price: Contact us for more
+    price: ''
     unit: ''
     services:
     - 1GB Disk Space
