@@ -8,11 +8,11 @@ contact:
     dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
   contact_list:
   - icon: ti-mobile
-    info: 'Phone: +880-31-000-000'
+    info: 'Phone: +1 (616) - 264 -5135'
   - icon: ti-email
     info: 'Email: hello@meghna.com'
   contact_form:
-    enable: true
+    enable: false
     form_action: "#Contact"
     name: Your Name
     email: Your Email
