@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  bg_image_webp: "/images/colton-duke-qru0i5aqeja-unsplash-jpg-comprfessed.jpg"
-  bg_image: "/images/colton-duke-qru0i5aqeja-unsplash-jpg-comprfessed.jpg"
+  bg_image_webp: "/images/banner-compressed.jpg"
+  bg_image: "/images/banner-compressed.jpg"
   icon: ''
   title: Mountain View Studios
   content: Discover Your Reality With Our Help
