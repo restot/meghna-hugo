@@ -14,8 +14,8 @@ pricing:
     - 100% satisfaction guarantee
     - 24/7 Tech Support
     button:
-      label: Signup
-      link: "#"
+      label: ''
+      link: ''
   - name: Wedding
     price: ''
     unit: ''
