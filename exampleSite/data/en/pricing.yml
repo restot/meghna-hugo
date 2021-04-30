@@ -29,7 +29,7 @@ pricing:
     button:
       label: Signup
       link: "#"
-  - name: Real Estate - Photo
+  - name: Real Estate
     price: ''
     unit: ''
     services:
