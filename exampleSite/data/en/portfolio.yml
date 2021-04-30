@@ -3,13 +3,6 @@ portfolio:
   enable: true
   title: Our Works
   portfolio_item:
-  - name: test1
-    image: images/portfolio/portfolio-1.jpg
-    image_webp: images/portfolio/portfolio-1.jpg
-    categories: 
-    - test
-    content: test
-    link: "#"
   - name: Tag Design
     image: images/portfolio/portfolio-1.jpg
     image_webp: images/portfolio/portfolio-1.webp
