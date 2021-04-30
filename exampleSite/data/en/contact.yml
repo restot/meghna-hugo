@@ -17,7 +17,7 @@ contact:
     info: 'Email: hello@meghna.com'
   contact_form:
     enable: true
-    form_action: "#"
+    form_action: "#Contact"
     name: Your Name
     email: Your Email
     subject: Subject
