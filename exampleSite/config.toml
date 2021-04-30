@@ -29,7 +29,7 @@ weight = 3
 author = "Themefisher"
 description = "Mountain View Studios Official Website"
 google_analytics_id = "UA-195898563-1"
-logo = "/images/mvstudios_icon.jpg"
+logo = "/images/no-backgroun-compressed.png"
 post_share = true
 [params.cookies]
 enable = false
@@ -66,7 +66,7 @@ link = "plugins/lazy-load/lozad.min.js"
 link = "plugins/google-map/map.js"
 [params.preloader]
 enable = true
-preloader = "/images/mvstudios_icon.jpg"
+preloader = "/images/no-background.png"
 [[params.social]]
 icon = "ti-instagram"
 link = "https://www.instagram.com/mt.view_official/"
