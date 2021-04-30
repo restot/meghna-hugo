@@ -2,8 +2,8 @@
 banner:
   enable: true
   bg_image_webp: "/images/roberto-nickson-eeiympbg3r8-unsplash-copy.webp"
-  bg_image: "/images/no-background-copy.webp"
-  icon: ''
+  bg_image: "/images/roberto-nickson-eeiympbg3r8-unsplash-copy.webp"
+  icon: "/images/logo-balck-site.png"
   title: Mountain View Studios
   content: Discover Your Reality With Our Help
   button:
