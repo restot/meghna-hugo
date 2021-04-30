@@ -5,7 +5,7 @@ pricing:
   pricing_table:
   - name: Tryout
     price: ''
-    unit: Session
+    unit: ''
     services:
     - 10 color corrected photos
     - 1 outfit
