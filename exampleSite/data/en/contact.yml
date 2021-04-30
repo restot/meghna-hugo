@@ -12,8 +12,8 @@ contact:
   - icon: ti-email
     info: 'Email: mtstudios.hq@gmail.com'
   contact_form:
-    enable: false
-    form_action: "#Contact"
+    enable: true
+    form_action: "#"
     name: Your Name
     email: Your Email
     subject: Subject
