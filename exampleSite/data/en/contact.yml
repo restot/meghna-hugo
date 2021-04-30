@@ -12,7 +12,7 @@ contact:
   - icon: ti-email
     info: 'Email: hello@meghna.com'
   contact_form:
-    enable: false
+    enable: true
     form_action: "#Contact"
     name: Your Name
     email: Your Email
