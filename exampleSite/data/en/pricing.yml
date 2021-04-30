@@ -42,14 +42,14 @@ pricing:
     button:
       label: Signup
       link: "#"
-  - name: Platinum
-    price: "$299"
+  - name: REAL ESTATE
+    price: Unlimited
     unit: month
     services:
-    - 1GB Disk Space
-    - 10 Email Account
-    - Script Installer
-    - 1 GB Storage
+    - 12 Houses
+    - 1 Drone Video per House
+    - Up to 2 hrs shoot
+    - 12+ color corrected photos
     - 10 GB Bandwidth
     - 24/7 Tech Support
     button:
