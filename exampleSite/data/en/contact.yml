@@ -1,22 +1,18 @@
 ---
 contact:
-  enable: false
+  enable: true
   title: Contact Us
   subtitle: Contact Details
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero,
     provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores
     dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
   contact_list:
-  - icon: ti-location-pin
-    info: Khaja Road, Bayzid, Chittagong, Bangladesh
   - icon: ti-mobile
     info: 'Phone: +880-31-000-000'
-  - icon: ti-printer
-    info: 'Fax: +880-31-000-000'
   - icon: ti-email
     info: 'Email: hello@meghna.com'
   contact_form:
-    enable: true
+    enable: false
     form_action: "#Contact"
     name: Your Name
     email: Your Email
