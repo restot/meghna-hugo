@@ -5,8 +5,8 @@ banner:
   bg_image: "/images/roberto-nickson-eeiympbg3r8-unsplash.jpg"
   icon: ''
   title: Mountain View Studios
-  content: Discover your own reality
+  content: Discover Your Reality With Our Help
   button:
-    enable: true
+    enable: false
     label: Explore Us
     link: "#services"
