@@ -53,5 +53,5 @@ pricing:
     - Indoor and outdoor
     - 24/7 Tech Support
     button:
-      label: Signup
-      link: "#"
+      label: ''
+      link: ''
